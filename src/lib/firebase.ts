@@ -3,7 +3,7 @@ import { getAuth } from 'firebase/auth';
 import { getAnalytics } from "firebase/analytics";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCxVXwZetg8dBXnw_GMr4y0o-mGg7vj03Y",
+  apiKey: "",
   authDomain: "banner-viewer--signinup.firebaseapp.com",
   projectId: "banner-viewer--signinup",
   storageBucket: "banner-viewer--signinup.firebasestorage.app",
